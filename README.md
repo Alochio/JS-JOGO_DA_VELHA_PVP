@@ -1,7 +1,5 @@
 # Jogo da Velha - Player vs. Player
 
-![Jogo da Velha](game-screenshot.png)
-
 ## Descrição
 
 Este é um simples jogo da velha Player vs. Player (PvP) desenvolvido em JavaScript usando a biblioteca p5.js para a parte gráfica. O jogo permite que dois jogadores joguem alternadamente, preenchendo os espaços vazios do tabuleiro com seus respectivos símbolos (X ou O). O jogador que conseguir alinhar três símbolos iguais vertical, horizontal ou diagonalmente será o vencedor. Se todas as casas forem preenchidas sem que haja um vencedor, o jogo terminará em empate.
@@ -19,7 +17,18 @@ Este é um simples jogo da velha Player vs. Player (PvP) desenvolvido em JavaScr
 
 ## Capturas de Tela
 
-![Tela Inicial](img/img01.JPG)
-![Jogando](img/img02.JPG)
-![X vencedor](img/img03.JPG)
-![Empate](img/img04.JPG)
+<div align="center">
+  <img src="img/img01.JPG" alt="Tela Inicial">
+</div>
+<br>
+<div align="center">
+  <img src="img/img02.JPG" alt="Jogando">
+</div>
+<br>
+<div align="center">
+  <img src="img/img03.JPG" alt="X vencedor">
+</div>
+<br>
+<div align="center">
+  <img src="img/img04.JPG" alt="Empate">
+</div>
